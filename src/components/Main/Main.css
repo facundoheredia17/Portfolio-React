@@ -1,0 +1,31 @@
+.main {
+  padding: 20px; 
+}
+
+.contenidomain {
+  max-width: 800px;
+  margin: 0 auto; 
+}
+
+h2 {
+  color: #333;
+  font-size: 1.5em; 
+  margin-top: 20px;
+}
+
+p, ul {
+  color: #000000; 
+  font-size: 1.1em; 
+  line-height: 1.6; 
+}
+
+ul {
+  margin-top: 10px; 
+  margin-bottom: 20px; 
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+  
